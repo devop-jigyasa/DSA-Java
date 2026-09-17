@@ -1,6 +1,6 @@
 package JavaBasics.ForLoop.Problems;
 import java.util.Scanner;
-public class Problem9 {
+public class Problem9 {                                  //Permutation and Combination
     public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
             int n = sc.nextInt();

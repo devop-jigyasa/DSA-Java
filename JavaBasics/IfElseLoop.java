@@ -108,5 +108,7 @@ public class IfElseLoop {
         if(v>w) System.out.println(v);
         else System.out.println(w);
       }
+
+      sc.close();
     }
 }

@@ -48,5 +48,7 @@ public class VariableAndAO {
         int l=4, b=6, h=9;
         int tsa = 2*(l*b+b*h+h*l);
         System.out.println(tsa);
+
+        sc.close();
     }
 }
