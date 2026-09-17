@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Arrays;
 public class Array{
 
 //TWO SUM 
